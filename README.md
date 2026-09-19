@@ -53,7 +53,6 @@ f) Build consistency through regular coding practice,
 g) Prepare for coding interviews and programming assessments.
   
   
-## Author
+## Authors
 Saravanakumar G  
-his repository represents his ongoing practice and learning in java programming.
   
