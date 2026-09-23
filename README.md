@@ -44,12 +44,19 @@ the following:
   
 ## Learning Goals
 the main goals of this repository are:
+
 a) Improve Java programming fundamentals,
+
 b) Develop problem-solving skills,
+
 c) Strengthen logical thinking,
+
 d) Practice writing clean Java programs,
+
 e) Understand how common number problems are solved,
+
 f) Build consistency through regular coding practice,
+
 g) Prepare for coding interviews and programming assessments.
   
   
