@@ -1,6 +1,6 @@
 package numberproblems;
 
-public class LargedigitinaNumber {
+public class LargeDigitInANumber {
 public static void main(String[] args) {
 	int a=32465;
 	int large=Integer.MIN_VALUE;
